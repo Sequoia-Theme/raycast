@@ -1,8 +1,8 @@
 {
   "author": "Micheal Andreuzza",
   "authorUsername": "michael-andreuzza",
-  "version": "1",
-  "name": "Sequoia Monochrome-Dark",
+  "version": 1,
+  "name": "Sequoia Monochrome Dark",
   "appearance": "dark",
   "colors": {
     "background": "#0F1014",

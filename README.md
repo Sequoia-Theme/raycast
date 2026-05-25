@@ -17,7 +17,7 @@ See other interfaces at the [official website](https://www.michaelandreuzza.com/
 
 ## Installation
 
-Import JSON via Raycast → Settings → Appearance → Import theme.
+Import JSON via Raycast → Settings → Appearance → Import theme, or browse on [themes.ray.so](https://themes.ray.so).
 
 Available files: `sequoia-moonlight-dark.json`, `sequoia-moonlight-light.json`, `sequoia-monochrome-dark.json`, `sequoia-monochrome-light.json`, `sequoia-retro-dark.json`, `sequoia-retro-light.json`.
 
